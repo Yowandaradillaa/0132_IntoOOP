@@ -11,6 +11,6 @@ class bangunDatar{
    void input(){
 
     cout << "Masukan Panjangnya = ";
-    
+    cin >> panjang;
    }
 };

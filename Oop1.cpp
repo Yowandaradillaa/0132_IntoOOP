@@ -16,7 +16,9 @@ class Mahasiswa {
 
 class MataKuliah{
     private: 
-    string kodeMk;
-    string namaMk;
+        string kodeMk;
+        string namaMk;
     int sks;
+    public :
+    
 };

@@ -6,5 +6,5 @@ class bangunDatar{
    float panjang;
    float lebar;
    public:
-   
+   float luas;
 };

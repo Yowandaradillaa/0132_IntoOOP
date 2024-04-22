@@ -7,4 +7,8 @@ class bangunDatar{
    float lebar;
    public:
    float luas;
+
+   void input(){
+    
+   }
 };
